@@ -1,0 +1,16 @@
+US-0001: Calcule o total de metros quadrados de uma propriedade
+US-0002: Indique o valor de uma propriedade com base em seus
+        cômodos e medidas. Lembre-se que os preços por metro quadrado
+        são determinados de acordo com a vizinhança.
+US-0003: Determine qual é o maior cômodo.
+US-0004: Determinar a quantidade de metros quadrados que tem cada cômodo
+        de uma propriedade.
+
+Dados de entrada:
+Parametro       Tipo        Length      Descrição
+prop_name       String      30          Nome da propriedade
+prop_district   String      45          Bairro
+room_name       String      30          Nome do comodo
+room_width      double                  Largura do comodo
+room_length     double                  Comprimento do comodo
+
